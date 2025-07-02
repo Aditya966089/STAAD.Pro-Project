@@ -1,4 +1,4 @@
-# Structural-Modeling-and-Analysis-of-a-G-9-Building-using-STAAD.Pro-
+# Structural-Modeling Project
 
 🏗️ Structural Modeling & Analysis of G+9 Residential Building — STAAD.Pro
     This project involves the structural modeling, analysis, and design of a G+9 (Ground + 9 floors) residential building using STAAD.Pro. The objective was to ensure the structural integrity and safety of the          building under various loading conditions by adhering to relevant design codes.
